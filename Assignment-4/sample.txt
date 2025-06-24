@@ -1,0 +1,4 @@
+This is sample.txt file
+This file contains multiple lines
+
+Each lines either has some words or empty
